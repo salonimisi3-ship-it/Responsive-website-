@@ -1,0 +1,13 @@
+# System / temp files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# IDE or editor folders
+.vscode/
+.idea/
+
+# Optional: node folder if you ever use JS
+node_modules/
